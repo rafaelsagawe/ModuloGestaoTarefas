@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ModuloGestaoTarefas.Models;
 
 namespace ModuloGestaoTarefas.Data
 {
@@ -12,5 +13,6 @@ namespace ModuloGestaoTarefas.Data
             : base(options)
         {
         }
+        public DbSet<ModuloGestaoTarefas.Models.Tarefa> Tarefa { get; set; }
     }
 }
