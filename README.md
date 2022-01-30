@@ -1,14 +1,13 @@
-# Modulo Gest„o Tarefas
+# Modulo Gest√£o Tarefas
 
-Projeto destinado · criaÁ„o e ducomentaÁ„o do modulo de Getanciamento de taferas dos sistemas, toda funÁ„o nova relacionado a este modulo deve ser primeiramente testado isoladamente neste repositorio. 
+Projeto destinado √° cria√ß√£o e ducomenta√ß√£o do modulo de Getanciamento de taferas dos sistemas, toda fun√ß√£o nova relacionado a este modulo deve ser primeiramente testado isoladamente neste repositorio. 
 
 ## Recuros
-
-AdiÁ„o e ediÁ„o das tarefas deve ser feito deiretamento no index;
-Detalhes e ExcluÁ„o via modal;
-Diferenciar as cores dos status;
-Apenas o proprio usu·rio tem acesso as suas tarefas;
-O dono da tarefa poder· compartilhar ela com o seu  grupo (recuso de autenticar em nÌves).
+- [ ] Adi√ß√£o e edi√ß√£o das tarefas deve ser feito deiretamento no index;
+- [ ] Detalhes e Exclu√ß√£o via modal;
+- [ ] Diferenciar as cores dos status;
+- [ ] Apenas o proprio usu√°rio tem acesso as suas tarefas;
+- [ ] O dono da tarefa poder√° compartilhar ela com o seu  grupo (recuso de autenticar em n√≠ves).
 
 
 
