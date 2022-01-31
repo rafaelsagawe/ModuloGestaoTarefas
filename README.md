@@ -28,3 +28,7 @@ O controller foi criado pelo proprio gerador de codigos.
 ### Pagina de Estatisticas
 Quantas Concluidas 
 Quantas pendentes
+
+### Imagens
+
+!(Tela Inicial com adição de tarefa diretamete no index)[~/Imagens/01.png]
