@@ -31,4 +31,4 @@ Quantas pendentes
 
 ### Imagens
 
-!(Tela Inicial com adição de tarefa diretamete no index)[~/Imagens/01.png]
+![Tela Inicial com adição de tarefa diretamete no index](/Imagens/01.png)
