@@ -7,12 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuloGestaoTarefas", "Modu
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F0D591C-6027-4538-B62F-579E005056BC}"
 	ProjectSection(SolutionItems) = preProject
+		Imagens\01.png = Imagens\01.png
 		README.md = README.md
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagens", "Imagens", "{683926E5-54E9-4B35-BD67-9918B6349A01}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\sagaw\OneDrive\Área de Trabalho\01.png = C:\Users\sagaw\OneDrive\Área de Trabalho\01.png
 	EndProjectSection
 EndProject
 Global
@@ -28,9 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{683926E5-54E9-4B35-BD67-9918B6349A01} = {0F0D591C-6027-4538-B62F-579E005056BC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D1CE228-B172-416B-993D-9FC9967295FA}
