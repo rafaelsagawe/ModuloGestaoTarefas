@@ -30,5 +30,6 @@ Quantas Concluidas
 Quantas pendentes
 
 ### Imagens
-
-!(Tela Inicial com adição de tarefa diretamete no index)[~/Imagens/01.png]
+1- Nome do usuário passando para o campo usuário da tarefa.
+2- Criação da Tarefa diretamente no index
+![Tela Inicial com adição de tarefa diretamete no index](/Imagens/01.png)
